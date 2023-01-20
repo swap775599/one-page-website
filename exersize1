@@ -10,9 +10,13 @@ body {background-colour: lightblue;}
 <button onclick="myFunction()"id="myBtn>Read More</button>
 <h2>
 <div class="boxed">
-<h1>Add image</h1><h2>basic techniqal writing<h2><h3>the course fo....</h3><h1>Add image<h1/><h1>Add image</h1><h2>confluence basic<h2><h3>the course fo....</h3>
-<h1>Add image</h1><h2>Confluence advance<h2><h3>the course fo....</h3><h1>Add image</h1><h2>XML authorg<h2><h3>the course fo....</h3><h1>Add image</h1><h2>Advance technical Api writing<h2><h3>the course fo....</h3><h1>Add image</h1><h2>basic techniqal writing<h2><h3>DITA-xml eritng.</h3>
-<h1>Add image</h1><h2>Adavnce XML writing<h2><h3>the course fo....<h1>Add image</h1></h3><h2>Advance xml author<h2><h3>DITA-xml eritng.</h3>
+<h1>Add image <h2><img src="https://metapercept.com/images/training-certification/Basic-DITA%E2%80%93XML.jpg" alt="Basic Techniqal writing <h2><h3>This course focuses on understanding the basics of technical writing and developing technical writing skills. In this course you will learn techniques to analyze writing contexts which helps you to produce effective, clean, and reader-center documents efficiently</h3>
+<h1>Add image <h2><img src="https://metapercept.com/images/training-certification/Advanced-DITA–XML.jpg" alt="ConfluenceAdvanced <h2><h3>This course focuses on understanding the basics of technical writing and developing technical writing skills. In this course you will learn techniques to analyze writing contexts which helps you to produce effective, clean, and reader-center documents efficiently</h3</h1><h1>Add image<h1/><h1>Add image</h1><h2>confluence basic<h2><h3>the course fo....</h3>
+<h1>Add image</h1><h2>img src="images/training-certification/Authoring-Tools.jpg"alt="Confluence Basic<h3></h3>,
+<h1>Add image <h2><img src="images/training-certification/Technical-Writing.jpg" alt="Basic Techniqal writing <h2><h3>This course focuses on understanding the basics of technical writing and developing technical writing skills. In this course you will learn techniques to analyze writing contexts which helps you to produce effective, clean, and reader-center documents efficiently</h3>
+<h1>Add image <h2><img src="images/training-certification/Basic-DITA–XML.jpg" alt="Advanced DITA-XM <h2><h3>This course focuses on understanding the basics of technical writing and developing technical writing skills. In this course you will learn techniques to analyze writing contexts which helps you to produce effective, clean, and reader-center documents efficiently</h3>
+<h1>Add image <h2><img src="images/training-certification/Advanced-DITA–XML.jpg" alt="xMetal Author <h2><h3>This course focuses on understanding the basics of technical writing and developing technical writing skills. In this course you will learn techniques to analyze writing contexts which helps you to produce effective, clean, and reader-center documents efficiently</h3>
+"images/training-certification/Simplified-Technical-English.jpg
 </div>
 </body>
 </html>
