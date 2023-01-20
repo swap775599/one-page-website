@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head> 
+<meta charset="text">
+<title>Title 
+"Home","about","blog","content", <button onclick="myFunction()"id="myBtn>Read More</button></title</head>
+<body>
+<h1> Title </h1>
+body {background-colour: lightblue;}
+<button onclick="myFunction()"id="myBtn>Read More</button>
+<h2>
+<div class="boxed">
+<h1>Add image</h1><h2>basic techniqal writing<h2><h3>the course fo....</h3><h1>Add image<h1/><h1>Add image</h1><h2>confluence basic<h2><h3>the course fo....</h3>
+<h1>Add image</h1><h2>Confluence advance<h2><h3>the course fo....</h3><h1>Add image</h1><h2>XML authorg<h2><h3>the course fo....</h3><h1>Add image</h1><h2>Advance technical Api writing<h2><h3>the course fo....</h3><h1>Add image</h1><h2>basic techniqal writing<h2><h3>DITA-xml eritng.</h3>
+<h1>Add image</h1><h2>Adavnce XML writing<h2><h3>the course fo....<h1>Add image</h1></h3><h2>Advance xml author<h2><h3>DITA-xml eritng.</h3>
+</div>
+</body>
+</html>
+
+
+
+
